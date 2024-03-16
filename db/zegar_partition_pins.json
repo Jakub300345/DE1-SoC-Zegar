@@ -1,0 +1,137 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "j_min_hex0_",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_2",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_3",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_4",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_5",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_6",
+					"strict" : false
+				},
+				{
+					"name" : "j_min_hex0_7",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_9",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_10",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_11",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_12",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_13",
+					"strict" : false
+				},
+				{
+					"name" : "d_min_hex1_14",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_15",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_16",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_17",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_18",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_19",
+					"strict" : false
+				},
+				{
+					"name" : "j_godz_hex3_20",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_21",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_22",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_23",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_24",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_25",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_26",
+					"strict" : false
+				},
+				{
+					"name" : "d_godz_hex4_",
+					"strict" : false
+				},
+				{
+					"name" : "UM",
+					"strict" : false
+				},
+				{
+					"name" : "UG",
+					"strict" : false
+				},
+				{
+					"name" : "S",
+					"strict" : false
+				},
+				{
+					"name" : "50MHz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
